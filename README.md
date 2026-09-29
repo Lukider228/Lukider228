@@ -1,21 +1,19 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Lukider228&color=5865f2&style=flat-square" alt="Просмотры профиля">
-
 <div align="center">
 
-# Привет, я Слава 👋
+<img src="banner.png" alt="Lukider" width="100%">
 
-**aka Lukider** · линуксоид · пишу утилиты для себя и делюсь ими
+<br>
 
 ![CachyOS](https://img.shields.io/badge/CachyOS-Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![VR](https://img.shields.io/badge/Meta_Quest_2-VR-white?style=for-the-badge&logo=meta&logoColor=white&labelColor=0467DF)
 
 </div>
 
-## 🙋 О себе
+## ✦ О себе
 
-Сижу на Linux (CachyOS) и люблю, когда инструменты делают ровно то, что мне нужно — поэтому, если чего-то не хватает, пишу сам: от десктопных приложений на Qt до юзерскриптов для Discord. Верю, что хорошая утилита — это когда открыл, сделал дело и закрыл, а не воевал с интерфейсом.
+Привет, я Слава, он же **Lukider**. Сижу на Linux (CachyOS) и люблю, когда инструменты делают ровно то, что мне нужно — поэтому, если чего-то не хватает, пишу сам: от десктопных приложений на Qt до юзерскриптов и ботов для Discord. Хорошая утилита — это когда открыл, сделал дело и закрыл, а не воевал с интерфейсом.
 
-## 🛠 Технологии
+## ✦ Технологии
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt_/_PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -26,7 +24,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## ⚡ Избранное: [Converter](https://github.com/Lukider228/Converter)
+## ✦ Избранное: [Converter](https://github.com/Lukider228/Converter)
 
 Универсальный конвертер медиафайлов для Linux — всё во всё, на базе ffmpeg, с нативным интерфейсом на Qt6.
 
@@ -38,23 +36,30 @@
 - ⚡ режим «Без потерь» — stream copy без перекодирования, где это возможно;
 - 🎨 тёмная тема, drag & drop, запоминание настроек.
 
-## 📦 Остальные проекты
+## ✦ Остальные проекты
 
 | Проект | Что это |
 |---|---|
+| ⛏️ [**AMDH-Mine-pack**](https://github.com/Lukider228/AMDH-Mine-pack) | Модпак сервера AMDH-Mine (Minecraft 1.21.1, NeoForge) в формате packwiz + скрипт автосборки из инстанса |
 | 🗑️ [**discord-scripts**](https://github.com/Lukider228/discord-scripts-by-lukider) | Юзерскрипты для Discord: массовое удаление своих сообщений и ИИ-анализ переписки через Gemini |
 | 🌱 [**Agridera**](https://github.com/Lukider228/Lukider228.github.io) | Адаптивная вёрстка многостраничного сайта — Bootstrap 4 + Vue 2 · [живая версия](https://lukider228.github.io/) |
 
-## 📊 Статистика
+## ✦ Активность
 
 <div align="center">
-
-![Языки](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lukider228&layout=compact&hide_title=true&hide_border=true&bg_color=1e1f22&text_color=dbdee1&card_width=340) ![Активность](https://streak-stats.demolab.com?user=Lukider228&hide_border=true&background=1e1f22&ring=5865f2&fire=5865f2&currStreakLabel=5865f2&currStreakNum=dbdee1&sideNums=dbdee1&sideLabels=949ba4&dates=949ba4&locale=ru)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lukider228/Lukider228/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lukider228/Lukider228/output/snake-light.svg">
+  <img alt="Змейка по графику контрибуций" src="https://raw.githubusercontent.com/Lukider228/Lukider228/output/snake-light.svg">
+</picture>
 </div>
 
-## 📫 Контакты
+## ✦ Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Lukider-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lukider)
 ![Discord](https://img.shields.io/badge/Discord-lukider-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 [![Email](https://img.shields.io/badge/Email-kolomoecvaceslav@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolomoecvaceslav@gmail.com)
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=Lukider228&color=e8b85c&style=flat-square&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B" alt="Просмотры профиля">
+</div>
