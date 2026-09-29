@@ -11,9 +11,9 @@
 
 ## ✦ О себе
 
-Привет, я Слава, он же **Lukider**. Сижу на Linux (CachyOS) и люблю, когда инструменты делают ровно то, что мне нужно — поэтому, если чего-то не хватает, пишу сам: от десктопных приложений на Qt до юзерскриптов и ботов для Discord. Хорошая утилита — это когда открыл, сделал дело и закрыл, а не воевал с интерфейсом.
+Привет, я Слава, он же Lukider. Сижу на CachyOS. Если нужной штуки нет или она бесит, делаю свою: приложения на Qt, юзерскрипты и ботов для Discord, мелкие утилиты под себя.
 
-## ✦ Технологии
+## ✦ Стек
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt_/_PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -24,25 +24,25 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## ✦ Избранное: [Converter](https://github.com/Lukider228/Converter)
+## ✦ Главный проект: [Converter](https://github.com/Lukider228/Converter)
 
-Универсальный конвертер медиафайлов для Linux — всё во всё, на базе ffmpeg, с нативным интерфейсом на Qt6.
+Конвертер аудио, видео и картинок для Linux. Внутри ffmpeg, интерфейс на Qt6.
 
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Lukider228/Converter)
 [![Qt6](https://img.shields.io/badge/UI-Qt6_/_PySide6-41CD52?style=flat&logo=qt&logoColor=white)](https://github.com/Lukider228/Converter)
 [![ffmpeg](https://img.shields.io/badge/Engine-ffmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)](https://github.com/Lukider228/Converter)
 
-- 📦 пакетная конвертация аудио/видео/изображений с параллельными задачами;
-- ⚡ режим «Без потерь» — stream copy без перекодирования, где это возможно;
-- 🎨 тёмная тема, drag & drop, запоминание настроек.
+- конвертирует пачкой, несколько файлов сразу
+- режим без потерь: где можно, просто копирует поток без перекодирования
+- тёмная тема, drag & drop, помнит настройки
 
-## ✦ Остальные проекты
+## ✦ Остальное
 
 | Проект | Что это |
 |---|---|
-| ⛏️ [**AMDH-Mine-pack**](https://github.com/Lukider228/AMDH-Mine-pack) | Модпак сервера AMDH-Mine (Minecraft 1.21.1, NeoForge) в формате packwiz + скрипт автосборки из инстанса |
-| 🗑️ [**discord-scripts**](https://github.com/Lukider228/discord-scripts-by-lukider) | Юзерскрипты для Discord: массовое удаление своих сообщений и ИИ-анализ переписки через Gemini |
-| 🌱 [**Agridera**](https://github.com/Lukider228/Lukider228.github.io) | Адаптивная вёрстка многостраничного сайта — Bootstrap 4 + Vue 2 · [живая версия](https://lukider228.github.io/) |
+| [**AMDH-Mine-pack**](https://github.com/Lukider228/AMDH-Mine-pack) | Модпак для сервера AMDH-Mine (Minecraft 1.21.1, NeoForge) и скрипт, который собирает его из инстанса Prism |
+| [**discord-scripts**](https://github.com/Lukider228/discord-scripts-by-lukider) | Юзерскрипты для Discord: удалить свои сообщения пачкой, разобрать переписку через Gemini |
+| [**Agridera**](https://github.com/Lukider228/Lukider228.github.io) | Вёрстка сайта на Bootstrap 4 и Vue 2, [можно посмотреть тут](https://lukider228.github.io/) |
 
 ## ✦ Активность
 
@@ -50,16 +50,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lukider228/Lukider228/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lukider228/Lukider228/output/snake-light.svg">
-  <img alt="Змейка по графику контрибуций" src="https://raw.githubusercontent.com/Lukider228/Lukider228/output/snake-light.svg">
+  <img alt="Змейка по графику коммитов" src="https://raw.githubusercontent.com/Lukider228/Lukider228/output/snake-light.svg">
 </picture>
 </div>
 
-## ✦ Контакты
+## ✦ Связь
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Lukider-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lukider)
 ![Discord](https://img.shields.io/badge/Discord-lukider-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 [![Email](https://img.shields.io/badge/Email-kolomoecvaceslav@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolomoecvaceslav@gmail.com)
-
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=Lukider228&color=e8b85c&style=flat-square&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B" alt="Просмотры профиля">
-</div>
